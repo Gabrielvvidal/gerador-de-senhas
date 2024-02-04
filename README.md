@@ -1,4 +1,4 @@
-# 🌟 Gerador de Senhas com ReactJS
+# 🌟 Gerador de Senhas com React
 
 [![Autor](https://img.shields.io/badge/Autor-Gabriel%20Vieira%20Vidal-blue)](https://www.linkedin.com/in/gabrielvvidal/)
 ![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen)
